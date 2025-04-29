@@ -25,7 +25,7 @@
 # Tools Used
 
 - Python 3
-- Pandas (our BFF for this task)
+- Pandas
 - `.isnull()`, `.drop_duplicates()`, and `.astype()` 
 
 
